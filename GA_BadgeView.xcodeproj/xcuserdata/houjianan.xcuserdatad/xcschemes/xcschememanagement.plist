@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>GA_BadgeView.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>DCF4BD941CF7F947001271D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DCF4BDA81CF7F947001271D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>DCF4BDB31CF7F947001271D6</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
