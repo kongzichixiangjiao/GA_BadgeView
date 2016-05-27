@@ -14,6 +14,7 @@
 		DCF4BDA31CF7F947001271D6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DCF4BDA11CF7F947001271D6 /* LaunchScreen.storyboard */; };
 		DCF4BDAE1CF7F947001271D6 /* GA_BadgeViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF4BDAD1CF7F947001271D6 /* GA_BadgeViewTests.swift */; };
 		DCF4BDB91CF7F947001271D6 /* GA_BadgeViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF4BDB81CF7F947001271D6 /* GA_BadgeViewUITests.swift */; };
+		DCF4BDC71CF7F95C001271D6 /* BadgeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DCF4BDC61CF7F95C001271D6 /* BadgeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		DCF4BDB41CF7F947001271D6 /* GA_BadgeViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GA_BadgeViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		DCF4BDB81CF7F947001271D6 /* GA_BadgeViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GA_BadgeViewUITests.swift; sourceTree = "<group>"; };
 		DCF4BDBA1CF7F947001271D6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DCF4BDC61CF7F95C001271D6 /* BadgeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BadgeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				DCF4BD981CF7F947001271D6 /* AppDelegate.swift */,
 				DCF4BD9A1CF7F947001271D6 /* ViewController.swift */,
+				DCF4BDC61CF7F95C001271D6 /* BadgeView.swift */,
 				DCF4BD9C1CF7F947001271D6 /* Main.storyboard */,
 				DCF4BD9F1CF7F947001271D6 /* Assets.xcassets */,
 				DCF4BDA11CF7F947001271D6 /* LaunchScreen.storyboard */,
@@ -256,6 +259,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				DCF4BDC71CF7F95C001271D6 /* BadgeView.swift in Sources */,
 				DCF4BD9B1CF7F947001271D6 /* ViewController.swift in Sources */,
 				DCF4BD991CF7F947001271D6 /* AppDelegate.swift in Sources */,
 			);
